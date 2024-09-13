@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Irfan], a passionate software engineering student with an interest in **DevOps, Cloud Computing and Cybersecurity**, and I'm always excited to learn and explore new technologies.
+I'm Irfan, a passionate software engineering student with an interest in **DevOps, Cloud Computing and Cybersecurity**, and I'm always excited to learn and explore new technologies.
 
 ## 🛠️ Skills & Technologies
 - **Languages**: C#, Java, Python
