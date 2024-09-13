@@ -1,17 +1,24 @@
-# 👋 Hi there, I'm @C4bbage64!
+# Hi there! 👋
 
-I'm passionate about **DevOps, Cloud Computing, Cybersecurity and Game Development**, and I'm always excited to learn and explore new technologies.
+I'm [Irfan], a passionate software engineering student with an interest in **DevOps, Cloud Computing and Cybersecurity**, and I'm always excited to learn and explore new technologies.
 
-## 🔭 What I'm Up To
-- 🎓 Currently pursuing a Bachelor's degree in Software Engineering.
-- 🌱 Expanding my knowledge in **computer networking**.
-- 💡 Working on projects related to **infrastructure, DevOps, and cloud solutions**.
-- 🎮 Developing a 2D story-based mystery horror game using the Godot engine.
+## 🛠️ Skills & Technologies
+- **Languages**: C#, Java, Python
+- **DevOps Tools**: Docker, Kubernetes, Git (in progress)
+- **Cloud Platforms**: Azure (in progress)
+- **Interests**:
 
-## 💬 About Me
-- 🛠 Proficient in **Java, C#, Python, Go and GDScript**.
-- 🌍 Interested in **DevOps practices**, especially during my semester break.
-- 💻 Experienced in IT services, including hardware and software installation, network troubleshooting, and server deployment.
+## 🚀 Featured Projects
+
+### [Homelab Setup](https://github.com/C4bbage64/homelab-setup)
+My personal homelab with VMs running kubernetes, Docker and a database server for learning cloud-native architectures.
+
+## 🎓 Education
+- **Bachelor's in Information Technology (Software Engineering)**, [UniKL MIIT](https://www.unikl.edu.my/), (in progress)
+- **Diploma in Computer Networking**, [KPMIM](http://www.kpmim.edu.my/), 2024
+
+## 📚 Currently Learning
+- Microsoft Certified: Azure Fundamentals (AZ-900)
 
 ## 🤝 Let's Collaborate!
 - 💞️ I'm open to collaborating on projects that align with my interests in **DevOps, cloud, cybersecurity, and Game Development**.
