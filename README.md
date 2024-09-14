@@ -32,7 +32,7 @@ My personal homelab with VMs running kubernetes, Docker and a database server fo
 
 ## 🌐 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/muhammad-irfan-deni-b18688260/)
-- [Personal Website](https://c4bbage64.github.io/#about)
+- [Portfolio](https://c4bbage64.github.io/#about)
 
 
 
