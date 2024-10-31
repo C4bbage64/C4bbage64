@@ -3,9 +3,9 @@
 I'm Irfan, a passionate software engineering student with an interest in **DevOps, Cloud Computing and Cybersecurity**, and I'm always excited to learn and explore new technologies.
 
 ## 🛠️ Skills & Technologies
-- **Languages**: C#, Java, Python (in progress)
+- **Languages**: C#, Java, Python, Go (in progress)
 - **DevOps Tools**: Docker, Kubernetes, Git, GitHub Actions (in progress)
-- **Cloud Platforms**: Azure (in progress)
+- **Cloud Platforms**: AWS, Azure (in progress)
 - **Interests**: Ai & ML, Cloud Security, Infrastructure as Code (IaC), Containerization
 
 ## 🚀 Featured Projects
