@@ -9,7 +9,7 @@ I've been learning computer science ever since secondary school, I graduated wit
 * 🌍  I'm based in Malaysia
 * 🖥️  See my portfolio at [Irfan Deni's Website](http://C4bbage.github.io)
 * ✉️  You can contact me at [h2oirfan.deni@gmail.com](mailto:h2oirfan.deni@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning C#, .NET and Azure
 * 🤝  I'm open to collaborating on Cloud Computing related Projects
 * ⚡  I like to play games with friends and hanging out on Discord
 
