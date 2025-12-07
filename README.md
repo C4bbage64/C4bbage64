@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Irfan Deni
 ==================================================================================================================================
 
-Software Engineering Student and Aspiring Cloud Engineer
---------------------------------------------------------
+Software Engineering Student
+----------------------------
 
 I've been learning computer science ever since secondary school, I graduated with a diploma in Computer Networking and am currently studying for my bachelor's degree in Software Engineering. I have a keen interest in Cloud Computing and DevOps practices. I look forward to learning about new tech and working together with people with similar interest.
 
