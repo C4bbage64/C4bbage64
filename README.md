@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ShelfSpace<br>👯 I’m looking to collaborate on Open Source projects<br>🤝 I’m looking for help with full-stack and cloud development skills<br>🌱 I’m currently learning software engineering<br>💬 Ask me about ops stuff<br>⚡ Fun fact I was a networking student, now I'm in here...
+🔭 I’m currently working on ShelfSpace<br>👯 I’m looking to collaborate on Open Source projects<br>🤝 I’m looking for help with full-stack and cloud development skills<br>🌱 I’m currently learning software engineering<br>💬 Ask me about ops stuff<br>⚡ Fun fact I was a networking student, now I'm here
 
 
 ## 🌐 Socials:
