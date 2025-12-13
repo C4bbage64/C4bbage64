@@ -1,12 +1,14 @@
 # 💫 About Me:
-Hi, I'm C4bbage — a second‑year student and developer interested in full‑stack, cloud, and game development.
+Hi, I'm C4bbage — a second‑year student and developer interested in full‑stack, cloud, game development, cybersecurity, and AI.
 
 - 🔭 Currently building **ShelfSpace**, an Electron‑based digital library — a better way to read and organize eBooks and documents.
 - 🎮 Learning **game development** and experimenting with small projects.
 - 🎨 Into **pixel art** and learning to create my own sprites and game assets.
-- 💻 I enjoy working with **C#/.NET**, **TypeScript**, and modern web tooling, and I’m currently learning **Python** and **Go**.
+- 💻 I enjoy working with **C#/.NET** and **TypeScript**, and I’m currently learning **Python** and **Go**.
 - ☁️ Interested in **cloud** technologies like **Docker**, **Azure**, **AWS**, and **OpenStack**, and how to deploy real apps end‑to‑end.
 - 🐧 I like tinkering with **Linux** and using it as a platform for development and self‑hosting.
+- 🔐 Curious about **cybersecurity** and how to build more secure systems and applications.
+- 🤖 Interested in **AI** and how it can be used to solve real problems or enhance developer workflows.
 - 👯 Open to collaborating on **Open Source** projects — from desktop and web apps to tools and small games.
 - 🌱 Always learning more about **clean code**, **good practices**, and how to design systems that are easier to maintain.
 
