@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on ShelfSpace<br>👯 I’m looking to collaborate on Open Source projects<br>🤝 I’m looking for help with full-stack and cloud development skills<br>🌱 I’m currently learning software engineering<br>💬 Ask me about ops stuff<br>⚡ Fun fact I was a networking student, now I'm here
+Hi, I'm C4bbage — a second‑year student and developer interested in full‑stack, cloud, and game development.
+
+- 🔭 Currently building **ShelfSpace**, an Electron‑based digital library — a better way to read and organize eBooks and documents.
+- 🎮 Learning **game development** and experimenting with small projects.
+- 🎨 Into **pixel art** and learning to create my own sprites and game assets.
+- 💻 I enjoy working with **C#/.NET**, **TypeScript**, and modern web tooling, and I’m currently learning **Python** and **Go**.
+- ☁️ Interested in **cloud** technologies like **Docker**, **Azure**, **AWS**, and **OpenStack**, and how to deploy real apps end‑to‑end.
+- 🐧 I like tinkering with **Linux** and using it as a platform for development and self‑hosting.
+- 👯 Open to collaborating on **Open Source** projects — from desktop and web apps to tools and small games.
+- 🌱 Always learning more about **clean code**, **good practices**, and how to design systems that are easier to maintain.
 
 
 ## 🌐 Socials:
