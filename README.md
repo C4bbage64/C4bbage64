@@ -1,13 +1,13 @@
 # 💫 About Me:
 Hi, I'm C4bbage — a second‑year student and developer interested in full‑stack, cloud, game dev, cybersecurity, and AI.
 
-🔭 Building ShelfSpace, an Electron‑based digital library for reading and organizing eBooks and documents.
-🎮 Learning game development and experimenting with pixel art for my own assets.
-💻 I enjoy C#/.NET and TypeScript, and I’m currently learning Python and Go.
-☁️ Exploring Docker, Azure, AWS, OpenStack, and Linux for deploying real projects.
-🔐 Curious about cybersecurity and how to build more secure systems.
-🤖 Interested in AI and how it can improve developer workflows.
-👯 Open to collaborating on Open Source and always learning better ways to write clean, maintainable code.
+- 🔭 Building ShelfSpace, an Electron‑based digital library for reading and organizing eBooks and documents.
+- 🎮 Learning game development and experimenting with pixel art for my own assets.
+- 💻 I enjoy C#/.NET and TypeScript, and I’m currently learning Python and Go.
+- ☁️ Exploring Docker, Azure, AWS, OpenStack, and Linux for deploying real projects.
+- 🔐 Curious about cybersecurity and how to build more secure systems.
+- 🤖 Interested in AI and how it can improve developer workflows.
+- 👯 Open to collaborating on Open Source and always learning better ways to write clean, maintainable code.
 
 
 ## 🌐 Socials:
