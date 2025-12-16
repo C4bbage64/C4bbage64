@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm C4bbage — a second‑year student and developer interested in full‑stack, cloud, game dev, cybersecurity, and AI.
+Hi, I'm Irfan — a second‑year student and developer interested in full‑stack, cloud, game dev, cybersecurity, and AI.
 
 - 🔭 Building ShelfSpace, an Electron‑based digital library for reading and organizing eBooks and documents.
 - 🎮 Learning game development and experimenting with pixel art for my own assets.
