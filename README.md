@@ -1,13 +1,9 @@
 # 💫 About Me:
-Hi, I'm Irfan — a second‑year student and developer interested in full‑stack, cloud, game dev, cybersecurity, and AI.
+Hi, I’m Irfan — a student and developer who enjoys building thoughtful software and learning how systems work under the hood.
 
-- 🔭 Building ShelfSpace, an Electron‑based digital library for reading and organizing eBooks and documents.
-- 🎮 Learning game development and experimenting with pixel art for my own assets.
-- 💻 I enjoy C#/.NET and TypeScript, and I’m currently learning Python and Go.
-- ☁️ Exploring Docker, Azure, AWS, OpenStack, and Linux for deploying real projects.
-- 🔐 Curious about cybersecurity and how to build more secure systems.
-- 🤖 Interested in AI and how it can improve developer workflows.
-- 👯 Open to collaborating on Open Source and always learning better ways to write clean, maintainable code.
+I’m interested in designing applications and tools that are clean, maintainable, and useful, whether that’s at the app level or deeper in the system. I enjoy working across the stack and learning how software is built, deployed, and secured in real-world environments.
+
+I like experimenting, breaking things, and improving them—whether that’s through side projects, open source, or personal learning. Always curious, always refining my craft.
 
 
 ## 🌐 Socials:
